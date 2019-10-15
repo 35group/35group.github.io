@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="33.289" height="33.289"/>
+  </defs>
+  <clipPath id="p.0">
+    <path d="M -1000.001 0 L 546.558 0 L 546.558 1035.843 L -1000.001 1035.843 L -1000.001 0 Z" clip-rule="nonzero"/>
+  </clipPath>
+  <path d="M 0 0 L 500 0 L 500 500 L 0 500 Z" fill-rule="evenodd" clip-path="url(#p.0)" style="fill: rgb(0, 170, 255);"/>
+  <g style="" transform="matrix(1.385409, 0, 0, 1.385409, -72.832176, -3.653841)">
+    <path style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 25px; stroke-linejoin: round; stroke-linecap: round;" d="M 166.445 99.867 L 299.601 99.867"/>
+    <path style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 25px; stroke-linejoin: round; stroke-linecap: round;" d="M 233.023 99.867 L 233.023 133.156 L 299.601 199.734 L 233.023 266.312 L 166.445 199.734"/>
+  </g>
+</svg>

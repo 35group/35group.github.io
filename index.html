@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>35</title>
+        <link rel="stylesheet" type="text/css" href="css/animate.min.css">
+        <style>
+            body
+            {
+                margin: 0;
+                padding: 0;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            #banner
+            {
+                background-image: url("gfx/banner.jpg");
+                background-position: center;
+                background-size: cover;
+                background-attachment: fixed;
+                height: 100vh;
+                position: relative;
+            }
+
+            #banner #logo
+            {
+                position: absolute;
+                z-index: 1;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                margin: auto;
+            }
+
+            #banner #arrow
+            {
+                position: absolute;
+                z-index: 1;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                margin: auto;
+            }
+
+            #menu
+            {
+                margin: 10px;
+            }
+
+            #menu img
+            {
+                margin: 5px;
+            }
+
+            #footer
+            {
+                background-color: lightgray;
+                padding: 5px;
+                margin-top: 10px;
+            }
+
+            .centered
+            {
+                text-align: center;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="banner">
+            <img src="gfx/35.svg" width="256" id="logo" class="centered animated flipInX">
+            <img src="gfx/arrow.svg" width="64" id="arrow" class="centered">
+        </div>
+
+        <div id="menu" class="centered">
+            <h1>35 Group - Our Services</h1>
+            <img src="gfx/humanize.svg" width="128">
+            <img src="gfx/looping.svg" width="128">
+            <img src="gfx/lit.svg" width="128">
+            <img src="gfx/buildesign.svg" width="128">
+            <img src="gfx/multiply.svg" width="128">
+        </div>
+
+        <div id="contact" class="centered">
+            <h2>Contact us</h2>
+            <a href="mailto:no.email@yet.com">no.email@yet.com</a>
+        </div>
+
+        <div id="footer" class="centered">
+            <p>Copyright © 2019 35 Group. All rights reserved. Made with 💗</p>
+        </div>
+    </body>
+</html>

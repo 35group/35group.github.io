@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="p.0">
+    <path d="M 0 0 L 960 0 L 960 720 L 0 720 L 0 0 Z" clip-rule="nonzero"/>
+  </clipPath>
+  <g transform="matrix(2.489399, 0, 0, 2.489399, -588.979736, -447.666504)" style="">
+    <path stroke-width="8.0" stroke-linejoin="round" stroke-linecap="butt" d="M 259.525 280.255 L 259.525 280.255 C 259.525 237.455 294.221 202.759 337.021 202.759 L 337.021 202.759 C 357.574 202.759 377.286 210.923 391.819 225.457 C 406.352 239.99 414.517 259.701 414.517 280.255 L 414.517 280.255 C 414.517 323.054 379.821 357.751 337.021 357.751 L 337.021 357.751 C 294.221 357.751 259.525 323.054 259.525 280.255 Z" fill-rule="evenodd" clip-path="url(#p.0)" style="fill: none; stroke: rgb(255, 255, 255);"/>
+    <path stroke-width="8.0" stroke-linejoin="round" stroke-linecap="butt" d="M 337.021 223.924 L 337.021 288.585" fill-rule="evenodd" clip-path="url(#p.0)" style="fill: none; stroke: rgb(255, 255, 255);"/>
+    <path stroke-width="8.0" stroke-linecap="butt" d="M 323.807 288.585 L 337.021 324.89 L 350.235 288.585 Z" fill-rule="evenodd" clip-path="url(#p.0)" style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+  </g>
+</svg>
